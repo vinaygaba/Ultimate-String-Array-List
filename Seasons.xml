@@ -1,0 +1,9 @@
+<string-array name="seasons">
+
+	<item>Autumn</item>
+	<item>Winter</item>
+	<item>Spring</item>
+	<item>Summer</item>
+	<item>Monsoon</item>
+
+</string-array>

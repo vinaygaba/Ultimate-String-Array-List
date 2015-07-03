@@ -1,0 +1,12 @@
+<string-array name="credit_card_companies">
+	<item>American Express</item>
+	<item>Capital One</item>
+	<item>Chase</item>
+	<item>Citi</item>
+	<item>Diners Club</item>
+	<item>Discover</item>
+	<item>JCB</item>
+	<item>Maestro</item>
+	<item>Mastercard</item>
+	<item>Visa</item>
+</string-array>

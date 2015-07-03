@@ -1,0 +1,15 @@
+<string-array name="canada_province_codes">
+        <item>AB</item>
+        <item>BC</item>
+        <item>MB</item>
+        <item>NB</item>
+        <item>NF</item>
+        <item>NT</item>
+        <item>NS</item>
+        <item>NU</item>
+        <item>ON</item>
+        <item>PE</item>
+        <item>QC</item>
+        <item>SK</item>
+        <item>YT</item>
+</string-array>

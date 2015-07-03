@@ -1,0 +1,24 @@
+<string-array name="epl_clubs">
+
+	<item>Arsenal</item>
+	<item>Aston Villa</item>
+	<item>Bournemouth</item>
+	<item>Chelsea</item>
+	<item>Crystal Palace</item>
+	<item>Everton</item>
+	<item>Leicester City</item>
+	<item>Liverpool</item>
+	<item>Manchester City</item>
+	<item>Manchester United</item>
+	<item>Newcastle United</item>
+	<item>Norwich City</item>
+	<item>Southampton</item>
+	<item>Stoke City</item>
+	<item>Sunderland</item>
+	<item>Swansea City</item>
+	<item>Tottenham Hotspur</item>
+	<item>Watford</item>
+	<item>West Bromwich Albion</item> 
+	<item>West Ham United</item> 
+
+</string-array>

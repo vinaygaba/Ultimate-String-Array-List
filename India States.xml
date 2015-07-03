@@ -1,0 +1,37 @@
+<string-array name="india_states">
+	<item>Andaman and Nicobar Islands</option>
+	<item>Andhra Pradesh</option>
+	<item>Arunachal Pradesh</item>
+	<item>Assam</item>
+	<item>Bihar</item>
+	<item>Chandigarh</item>
+	<item>Chhattisgarh</item>
+	<item>Dadra and Nagar Haveli</item>
+	<item>Daman and Diu</item>
+	<item>Delhi</item>
+	<item>Goa</item>
+	<item>Gujarat</item>
+	<item>Haryana</item>
+	<item>Himachal Pradesh</item>
+	<item>Jammu and Kashmir</item>
+	<item>Jharkhand</item>
+	<item>Karnataka</item>
+	<item>Kerala</item>
+	<item>Lakshadweep</item>
+	<item>Madhya Pradesh</item>
+	<item>Maharashtra</item>
+	<item>Manipur</item>
+	<item>Meghalaya</item>
+	<item>Mizoram</item>
+	<item>Nagaland</item>
+	<item>Orissa</item>
+	<item>Pondicherry</item>
+	<item>Punjab</item>
+	<item>Rajasthan</item>
+	<item>Sikkim</item>
+	<item>Tamil Nadu</item>
+	<item>Tripura</item>
+	<item>Uttaranchal</item>
+	<item>Uttar Pradesh</item>
+	<item>West Bengal</item>
+</string-array>

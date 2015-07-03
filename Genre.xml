@@ -1,0 +1,947 @@
+<string-array name="genre">
+	<item>2-Step/British Garage</item>
+	<item>Aboriginal Folk</item>
+	<item>Aboriginal Rock</item>
+	<item>Acadian</item>
+	<item>Acappella</item>
+	<item>Acid Folk</item>
+	<item>Acid House</item>
+	<item>Acid Jazz</item>
+	<item>Acid Rock</item>
+	<item>Acid Techno</item>
+	<item>Acoustic Blues</item>
+	<item>Acoustic Chicago Blues</item>
+	<item>Acoustic Louisiana Blues</item>
+	<item>Acoustic Memphis Blues</item>
+	<item>Acoustic New Orleans Blues</item>
+	<item>Acoustic Texas Blues</item>
+	<item>Adult Alternative</item>
+	<item>Adult Alternative Pop/Rock</item>
+	<item>Adult Contemporary</item>
+	<item>African Folk</item>
+	<item>African Jazz</item>
+	<item>Afro-Beat</item>
+	<item>Afro-Brazilian</item>
+	<item>Afro-Colombian</item>
+	<item>Afro-Cuban</item>
+	<item>Afro-Cuban Jazz</item>
+	<item>Afro Peruvian</item>
+	<item>Afro-Pop</item>
+	<item>Album Rock</item>
+	<item>Al-Jil</item>
+	<item>Alternative CCM</item>
+	<item>Alternative Country</item>
+	<item>Alternative Country-Rock</item>
+	<item>Alternative Dance</item>
+	<item>Alternative Folk</item>
+	<item>Alternative Metal</item>
+	<item>Alternative Pop/Rock</item>
+	<item>Alternative Rap</item>
+	<item>Alternative Singer/Songwriter</item>
+	<item>Ambient</item>
+	<item>Ambient Breakbeat</item>
+	<item>Ambient Dub</item>
+	<item>Ambient House</item>
+	<item>Ambient Pop</item>
+	<item>Ambient Techno</item>
+	<item>Americana</item>
+	<item>American Jewish Pop</item>
+	<item>American Popular Song</item>
+	<item>American Punk</item>
+	<item>American Trad Rock</item>
+	<item>American Underground</item>
+	<item>AM Pop</item>
+	<item>Anarchist Punk</item>
+	<item>Andalus Classical</item>
+	<item>Andean Folk</item>
+	<item>Anime Music</item>
+	<item>Anti-Folk</item>
+	<item>Apala</item>
+	<item>Appalachian Folk</item>
+	<item>Arena Rock</item>
+	<item>Argentine Folk</item>
+	<item>Armenian</item>
+	<item>Armenian Folk</item>
+	<item>Asian Folk</item>
+	<item>Asian Pop</item>
+	<item>Atonal</item>
+	<item>Audiobooks</item>
+	<item>Aussie Rock</item>
+	<item>AustroPop</item>
+	<item>Avant-Garde</item>
+	<item>Avant-Garde Jazz</item>
+	<item>Avant-Prog</item>
+	<item>Bachata</item>
+	<item>Bakersfield Sound</item>
+	<item>Ballads</item>
+	<item>Ballroom Dance</item>
+	<item>Banda</item>
+	<item>Bar Band</item>
+	<item>Barbershop Quartet</item>
+	<item>Baroque</item>
+	<item>Baroque Pop</item>
+	<item>Bass Music</item>
+	<item>Bava</item>
+	<item>Beach</item>
+	<item>Beat Poetry</item>
+	<item>Beguine</item>
+	<item>Beguine Moderne</item>
+	<item>Beguine Vide</item>
+	<item>Belair</item>
+	<item>Bel Canto Opera</item>
+	<item>Belly Dancing</item>
+	<item>Bhangra</item>
+	<item>Big Band</item>
+	<item>Big Band Latino</item>
+	<item>Big Beat</item>
+	<item>Bikutsi</item>
+	<item>Black Gospel</item>
+	<item>Blaxploitation</item>
+	<item>Bluebeat</item>
+	<item>Blue-Eyed Soul</item>
+	<item>Bluegrass</item>
+	<item>Bluegrass-Gospel</item>
+	<item>Blue Humor</item>
+	<item>Blues</item>
+	<item>Blues Gospel</item>
+	<item>Blues Revival</item>
+	<item>Blues-Rock</item>
+	<item>Bolero</item>
+	<item>Bollywood</item>
+	<item>Bombara</item>
+	<item>Boogaloo</item>
+	<item>Boogie Rock</item>
+	<item>Boogie-Woogie</item>
+	<item>Bop</item>
+	<item>Bossa Nova</item>
+	<item>Brass Band</item>
+	<item>Brazilian Folk</item>
+	<item>Brazilian Jazz</item>
+	<item>Brazilian Pop</item>
+	<item>Brill Building Pop</item>
+	<item>British Blues</item>
+	<item>British Dance Bands</item>
+	<item>British Folk</item>
+	<item>British Folk-Rock</item>
+	<item>British Invasion</item>
+	<item>British Metal</item>
+	<item>British Psychedelia</item>
+	<item>British Punk</item>
+	<item>British Rap</item>
+	<item>British Trad Rock</item>
+	<item>Britpop</item>
+	<item>Broken Beat</item>
+	<item>Brown-Eyed Soul</item>
+	<item>Bubblegum</item>
+	<item>Bulgarian Folk</item>
+	<item>C-86</item>
+	<item>Cabaret</item>
+	<item>Cadence</item>
+	<item>Cajun</item>
+	<item>Calypso</item>
+	<item>Canterbury Scene</item>
+	<item>Caribbean Folk</item>
+	<item>Carnatic</item>
+	<item>Carnival</item>
+	<item>Carols</item>
+	<item>Cartoon Music</item>
+	<item>Cast Recordings</item>
+	<item>CCM</item>
+	<item>Celebrity</item>
+	<item>Celtic</item>
+	<item>Celtic Folk</item>
+	<item>Celtic Fusion</item>
+	<item>Celtic Gospel</item>
+	<item>Celtic New Age</item>
+	<item>Celtic Pop</item>
+	<item>Celtic Rock</item>
+	<item>Ceremonial</item>
+	<item>Cha-Cha</item>
+	<item>Chamber Jazz</item>
+	<item>Chamber Music</item>
+	<item>Chamber Pop</item>
+	<item>Changui</item>
+	<item>Chant</item>
+	<item>Chants</item>
+	<item>Chanukah</item>
+	<item>Charanga</item>
+	<item>Chassidic</item>
+	<item>Chicago Blues</item>
+	<item>Chicago Soul</item>
+	<item>Children's</item>
+	<item>Children's Folk</item>
+	<item>Children's Stories</item>
+	<item>Chilean Folk</item>
+	<item>Chimurenga</item>
+	<item>Chinese Classical</item>
+	<item>Chinese Folk</item>
+	<item>Chinese Pop</item>
+	<item>Chinese Pop-Rock</item>
+	<item>Choral</item>
+	<item>Choro</item>
+	<item>Chouval Bwa</item>
+	<item>Christian Comedy</item>
+	<item>Christian Metal</item>
+	<item>Christian Punk</item>
+	<item>Christian Rap</item>
+	<item>Christian Rock</item>
+	<item>Christmas</item>
+	<item>Circus Music</item>
+	<item>Classical</item>
+	<item>Classical Crossover</item>
+	<item>Classical Guitar</item>
+	<item>Classical Pop</item>
+	<item>Classic Female Blues</item>
+	<item>Classic Jazz</item>
+	<item>Close Harmony</item>
+	<item>Club/Dance</item>
+	<item>Cocktail</item>
+	<item>College Rock</item>
+	<item>Comedy</item>
+	<item>Comedy Rap</item>
+	<item>Comedy Rock</item>
+	<item>Compas</item>
+	<item>Computer Music</item>
+	<item>Conceptual Art</item>
+	<item>Conjunto</item>
+	<item>Contemporary Bluegrass</item>
+	<item>Contemporary Blues</item>
+	<item>Contemporary Celtic</item>
+	<item>Contemporary Country</item>
+	<item>Contemporary Flamenco</item>
+	<item>Contemporary Folk</item>
+	<item>Contemporary Gospel</item>
+	<item>Contemporary Instrumental</item>
+	<item>Contemporary Jazz</item>
+	<item>Contemporary Native American</item>
+	<item>Contemporary R&B</item>
+	<item>Contemporary Reggae</item>
+	<item>Contemporary Singer/Songwriter</item>
+	<item>Continental Jazz</item>
+	<item>Cool</item>
+	<item>Corrido</item>
+	<item>Country</item>
+	<item>Country Blues</item>
+	<item>Country Boogie</item>
+	<item>Country Comedy</item>
+	<item>Country-Folk</item>
+	<item>Country Gospel</item>
+	<item>Country-Pop</item>
+	<item>Country-Rock</item>
+	<item>Country-Soul</item>
+	<item>Cowboy</item>
+	<item>Cowpunk</item>
+	<item>Creative Orchestra</item>
+	<item>Creole</item>
+	<item>Crossover Jazz</item>
+	<item>Cuatro</item>
+	<item>Cuban Jazz</item>
+	<item>Cuban Pop</item>
+	<item>Cumbia</item>
+	<item>Dance Bands</item>
+	<item>Dancehall</item>
+	<item>Dance-Pop</item>
+	<item>Dance-Rock</item>
+	<item>Danzon</item>
+	<item>Dark Ambient</item>
+	<item>Death Metal/Black Metal</item>
+	<item>Deep Funk</item>
+	<item>Deep Funk Revival</item>
+	<item>Deep Soul</item>
+	<item>Delta Blues</item>
+	<item>Demonstration/Test Disc</item>
+	<item>Detroit Blues</item>
+	<item>Detroit Rock</item>
+	<item>Detroit Techno</item>
+	<item>Dhrupad</item>
+	<item>Dimotiko</item>
+	<item>Dirty Blues</item>
+	<item>Dirty Rap</item>
+	<item>Dirty South</item>
+	<item>Disco</item>
+	<item>Dixieland</item>
+	<item>Dixieland Revival</item>
+	<item>DJ</item>
+	<item>Djabdong</item>
+	<item>Documentary</item>
+	<item>Doom Metal</item>
+	<item>Doo Wop</item>
+	<item>Downbeat</item>
+	<item>Downtempo</item>
+	<item>Drama</item>
+	<item>Dream Pop</item>
+	<item>Drill'n'bass</item>
+	<item>Drinking Songs</item>
+	<item>Dub</item>
+	<item>Dub Poetry</item>
+	<item>Dutch Pop</item>
+	<item>Early American Blues</item>
+	<item>Early British Pop/Rock</item>
+	<item>Early Creative</item>
+	<item>Early Music</item>
+	<item>East Coast Blues</item>
+	<item>East Coast Rap</item>
+	<item>Easter</item>
+	<item>Eastern Europe</item>
+	<item>Eastern European Pop</item>
+	<item>Easy Listening</item>
+	<item>Easy Pop</item>
+	<item>Educational</item>
+	<item>Egyptian/Sudanese Music</item>
+	<item>Electric Blues</item>
+	<item>Electric Chicago Blues</item>
+	<item>Electric Country Blues</item>
+	<item>Electric Delta Blues</item>
+	<item>Electric Harmonica Blues</item>
+	<item>Electric Memphis Blues</item>
+	<item>Electric Texas Blues</item>
+	<item>Electro</item>
+	<item>Electro-Acoustic</item>
+	<item>Electro-Industrial</item>
+	<item>Electro-Jazz</item>
+	<item>Electronic</item>
+	<item>Electronica</item>
+	<item>Electro-Techno</item>
+	<item>Emo</item>
+	<item>Enka</item>
+	<item>Environmental</item>
+	<item>Erotica</item>
+	<item>Ethiopian Pop</item>
+	<item>Ethnic</item>
+	<item>Ethnic Comedy</item>
+	<item>Ethnic Fusion</item>
+	<item>Euro-Dance</item>
+	<item>European Folk</item>
+	<item>Euro-Pop</item>
+	<item>Euro-Rock</item>
+	<item>Exercise</item>
+	<item>Exotica</item>
+	<item>Experimental</item>
+	<item>Experimental Ambient</item>
+	<item>Experimental Big Band</item>
+	<item>Experimental Dub</item>
+	<item>Experimental Electro</item>
+	<item>Experimental Jungle</item>
+	<item>Experimental Rock</item>
+	<item>Experimental Techno</item>
+	<item>Fado</item>
+	<item>Fairy Tales</item>
+	<item>Fantasy</item>
+	<item>Field Recordings</item>
+	<item>Fight Songs</item>
+	<item>Film Music</item>
+	<item>Finger-Picked Guitar</item>
+	<item>Finnish Folk</item>
+	<item>Flamenco</item>
+	<item>Folk</item>
+	<item>Folk-Blues</item>
+	<item>Folk-Jazz</item>
+	<item>Folklore</item>
+	<item>Folk-Pop</item>
+	<item>Folk Revival</item>
+	<item>Folk-Rock</item>
+	<item>Folksongs</item>
+	<item>Foreign Language Rap</item>
+	<item>Foreign Language Rock</item>
+	<item>Forro</item>
+	<item>Frat Rock</item>
+	<item>Freakbeat</item>
+	<item>Free Folk</item>
+	<item>Free Funk</item>
+	<item>Free Improvisation</item>
+	<item>Free Jazz</item>
+	<item>Freestyle</item>
+	<item>French Chanson</item>
+	<item>French Folk</item>
+	<item>French Pop</item>
+	<item>French Rock</item>
+	<item>Fuji</item>
+	<item>Funk</item>
+	<item>Funk Metal</item>
+	<item>Funky Breaks</item>
+	<item>Fusion</item>
+	<item>Gabba</item>
+	<item>Gamelan</item>
+	<item>Game Sounds</item>
+	<item>Gangsta Rap</item>
+	<item>Garage/House</item>
+	<item>Garage Punk</item>
+	<item>Garage Rap/Grime</item>
+	<item>Garage Rock</item>
+	<item>Garage Rock Revival</item>
+	<item>Gay</item>
+	<item>Gay Comedy</item>
+	<item>Gay Country</item>
+	<item>Gay Gospel</item>
+	<item>Georgian Choir</item>
+	<item>German Liedermacher</item>
+	<item>German Schlager</item>
+	<item>German Volksmusik</item>
+	<item>G-Funk</item>
+	<item>Giddha</item>
+	<item>Girl Group</item>
+	<item>Glam Rock</item>
+	<item>Glitch</item>
+	<item>Glitter</item>
+	<item>Goa Trance</item>
+	<item>Go-Go</item>
+	<item>Golden Age</item>
+	<item>Gospel</item>
+	<item>Gospel Choir</item>
+	<item>Goth Metal</item>
+	<item>Goth Rock</item>
+	<item>Greek Folk</item>
+	<item>Gregorian Chant</item>
+	<item>Grindcore</item>
+	<item>Grunge</item>
+	<item>Grupero</item>
+	<item>Guaguancó</item>
+	<item>Guitar Virtuoso</item>
+	<item>Gwo Ka</item>
+	<item>Gypsy</item>
+	<item>Hair Metal</item>
+	<item>Halloween</item>
+	<item>Happy Hardcore</item>
+	<item>Hard Bop</item>
+	<item>Hardcore Punk</item>
+	<item>Hardcore Rap</item>
+	<item>Hardcore Techno</item>
+	<item>Hard Rock</item>
+	<item>Harmonica Blues</item>
+	<item>Harmony Vocal Group</item>
+	<item>Hawaiian Pop</item>
+	<item>Healing</item>
+	<item>Heartland Rock</item>
+	<item>Heavy Metal</item>
+	<item>Hebrew</item>
+	<item>Highlife</item>
+	<item>Hi-NRG</item>
+	<item>Hip-Hop</item>
+	<item>Holiday</item>
+	<item>Hong Kong Pop</item>
+	<item>Honky Tonk</item>
+	<item>Hot Jazz</item>
+	<item>Hot Rod</item>
+	<item>Hot Rod Revival</item>
+	<item>House</item>
+	<item>Hungarian Folk</item>
+	<item>Hymns</item>
+	<item>IDM</item>
+	<item>Illbient</item>
+	<item>Impressionist</item>
+	<item>Improvisation</item>
+	<item>Indian Classical</item>
+	<item>Indian Folk</item>
+	<item>Indian Pop</item>
+	<item>Indie Electronic</item>
+	<item>Indie Pop</item>
+	<item>Indie Rock</item>
+	<item>Indigenous</item>
+	<item>Indipop</item>
+	<item>Industrial</item>
+	<item>Industrial Dance</item>
+	<item>Industrial Drum'n'Bass</item>
+	<item>Industrial Metal</item>
+	<item>Inspirational</item>
+	<item>Instructional</item>
+	<item>Instrumental Country</item>
+	<item>Instrumental Gospel</item>
+	<item>Instrumental Pop</item>
+	<item>Instrumental Rock</item>
+	<item>International Folk</item>
+	<item>International Pop</item>
+	<item>Interview</item>
+	<item>Inuit</item>
+	<item>Iran-Classical</item>
+	<item>Irish Folk</item>
+	<item>Italian Folk</item>
+	<item>Italian Pop</item>
+	<item>Jaipongan</item>
+	<item>Jam Bands</item>
+	<item>Jangle Pop</item>
+	<item>Japanese Orchestral</item>
+	<item>Japanese Pop</item>
+	<item>Japanese Rock</item>
+	<item>Jazz</item>
+	<item>Jazz Blues</item>
+	<item>Jazz-Funk</item>
+	<item>Jazz-House</item>
+	<item>Jazz-Pop</item>
+	<item>Jazz-Rap</item>
+	<item>Jazz-Rock</item>
+	<item>Jesus Rock</item>
+	<item>Jewish Folk</item>
+	<item>Jewish Music</item>
+	<item>Jibaro</item>
+	<item>Jit</item>
+	<item>Jive</item>
+	<item>Joik</item>
+	<item>Jug Band</item>
+	<item>Juju</item>
+	<item>Juke Joint Blues</item>
+	<item>Jump Blues</item>
+	<item>Jungle/Drum'n'bass</item>
+	<item>Junkanoo</item>
+	<item>Kabuki</item>
+	<item>Karaoke</item>
+	<item>Kayokyoku</item>
+	<item>Kecak</item>
+	<item>Khmer Dance</item>
+	<item>Klezmer</item>
+	<item>Kora</item>
+	<item>Korean Pop</item>
+	<item>Korean Rock</item>
+	<item>Kraut Rock</item>
+	<item>Laika</item>
+	<item>Lambada</item>
+	<item>L.A. Punk</item>
+	<item>Latin</item>
+	<item>Latin CCM</item>
+	<item>Latin Comedy</item>
+	<item>Latin Dance</item>
+	<item>Latin Folk</item>
+	<item>Latin Freestyle</item>
+	<item>Latin Gospel</item>
+	<item>Latin Jazz</item>
+	<item>Latin Pop</item>
+	<item>Latin Rap</item>
+	<item>Latin Rock</item>
+	<item>Latin Soul</item>
+	<item>Left-Field Hip-Hop</item>
+	<item>Left-Field House</item>
+	<item>Lo-Fi</item>
+	<item>Louisiana Blues</item>
+	<item>Lounge</item>
+	<item>Lovers Rock</item>
+	<item>Lullabies</item>
+	<item>Macapat Poetry</item>
+	<item>Madchester</item>
+	<item>Mainstream Jazz</item>
+	<item>Makossa</item>
+	<item>Mambo</item>
+	<item>Mantras</item>
+	<item>Marabi</item>
+	<item>March</item>
+	<item>Marches</item>
+	<item>Mariachi</item>
+	<item>Math Rock</item>
+	<item>Mbalax</item>
+	<item>Mbaqanga</item>
+	<item>M-Base</item>
+	<item>Mbira</item>
+	<item>Mbube</item>
+	<item>Mbuti Choral</item>
+	<item>Medieval</item>
+	<item>Meditation</item>
+	<item>Memphis Blues</item>
+	<item>Memphis Soul</item>
+	<item>Mento</item>
+	<item>Merengue</item>
+	<item>Merenhouse</item>
+	<item>Merseybeat</item>
+	<item>Mexican Folk</item>
+	<item>Microhouse</item>
+	<item>Microsound</item>
+	<item>Microtonal</item>
+	<item>Middle Eastern Pop</item>
+	<item>Midwest Rap</item>
+	<item>Military</item>
+	<item>Mini Jazz</item>
+	<item>Minimalism</item>
+	<item>Minimal Techno</item>
+	<item>Minstrel</item>
+	<item>Miscellaneous</item>
+	<item>Mixed Media</item>
+	<item>Mod</item>
+	<item>Modal Music</item>
+	<item>Modern Acoustic Blues</item>
+	<item>Modern Big Band</item>
+	<item>Modern Composition</item>
+	<item>Modern Creative</item>
+	<item>Modern Delta Blues</item>
+	<item>Modern Electric Blues</item>
+	<item>Modern Electric Chicago Blues</item>
+	<item>Modern Electric Texas Blues</item>
+	<item>Modern Free</item>
+	<item>Modern Son</item>
+	<item>Mod Revival</item>
+	<item>Mood Music</item>
+	<item>Moravian Folk</item>
+	<item>Morna</item>
+	<item>Morning Radio</item>
+	<item>Motown</item>
+	<item>Movie Themes</item>
+	<item>MPB</item>
+	<item>Mugam</item>
+	<item>Musette</item>
+	<item>Musical Comedy</item>
+	<item>Musicals</item>
+	<item>Musical Theater</item>
+	<item>Music Hall</item>
+	<item>Musique Actuelle</item>
+	<item>Musique Concrète</item>
+	<item>Mystical Minimalism</item>
+	<item>Nashville Sound/Countrypolitan</item>
+	<item>Nationalist</item>
+	<item>Nature</item>
+	<item>Neo-Bop</item>
+	<item>Neo-Classical</item>
+	<item>Neo-Classical Metal</item>
+	<item>Neo-Electro</item>
+	<item>Neo-Glam</item>
+	<item>Neo-Prog</item>
+	<item>Neo-Psychedelia</item>
+	<item>Neo-Romantic</item>
+	<item>Neo-Soul</item>
+	<item>Neo-Traditional</item>
+	<item>Neo-Traditional Folk</item>
+	<item>Neo-Traditionalist Country</item>
+	<item>New Acoustic</item>
+	<item>New Age</item>
+	<item>New Age Tone Poems</item>
+	<item>Newbeat</item>
+	<item>New Jack Swing</item>
+	<item>New Orleans Blues</item>
+	<item>New Orleans Brass Bands</item>
+	<item>New Orleans Jazz</item>
+	<item>New Orleans R&B</item>
+	<item>New Romantic</item>
+	<item>New Traditionalist</item>
+	<item>New Wave</item>
+	<item>New Wave of British Heavy Metal</item>
+	<item>New Wave/Post-Punk Revival</item>
+	<item>New York Blues</item>
+	<item>New York Punk</item>
+	<item>New York Salsa</item>
+	<item>New Zealand Rock</item>
+	<item>Nissiotiko</item>
+	<item>Noh</item>
+	<item>Noise</item>
+	<item>Noise Pop</item>
+	<item>Noise-Rock</item>
+	<item>Norteño</item>
+	<item>Northern Soul</item>
+	<item>Norwegian Folk</item>
+	<item>Nostalgia</item>
+	<item>Novelty</item>
+	<item>Novelty Ragtime</item>
+	<item>No Wave</item>
+	<item>Nu Breaks</item>
+	<item>Nueva Cancion</item>
+	<item>Nueva Trova</item>
+	<item>Nursery Rhymes</item>
+	<item>Nyahbinghi</item>
+	<item>Obscuro</item>
+	<item>Observational Humor</item>
+	<item>Oi!</item>
+	<item>Okinawan Pop</item>
+	<item>Okinawan Traditional</item>
+	<item>Old-School Rap</item>
+	<item>Old-Timey</item>
+	<item>Omutibo</item>
+	<item>Onda Grupera</item>
+	<item>Opera</item>
+	<item>Operettas</item>
+	<item>Oratories</item>
+	<item>Orchestral</item>
+	<item>Orchestral Jazz</item>
+	<item>Orchestral Pop</item>
+	<item>Original Score</item>
+	<item>Outlaw Country</item>
+	<item>Pachanga</item>
+	<item>Paisley Underground</item>
+	<item>Pan-Global</item>
+	<item>Party Rap</item>
+	<item>Party Soca</item>
+	<item>Peruvian Folk</item>
+	<item>Philly Soul</item>
+	<item>Piano Blues</item>
+	<item>Piedmont Blues</item>
+	<item>Pipe Bands</item>
+	<item>Plena</item>
+	<item>Poetry</item>
+	<item>Political Comedy</item>
+	<item>Political Folk</item>
+	<item>Political Rap</item>
+	<item>Political Reggae</item>
+	<item>Polka</item>
+	<item>Pop</item>
+	<item>Pop Idol</item>
+	<item>Pop-Metal</item>
+	<item>Pop-Rap</item>
+	<item>Pop/Rock</item>
+	<item>Pop-Soul</item>
+	<item>Pop Underground</item>
+	<item>Portuguese Music</item>
+	<item>Post-Bop</item>
+	<item>Post-Disco</item>
+	<item>Post-Grunge</item>
+	<item>Post-Hardcore</item>
+	<item>Post-Minimalism</item>
+	<item>Post-Punk</item>
+	<item>Post-Rock/Experimental</item>
+	<item>Post-Romantic</item>
+	<item>Power Metal</item>
+	<item>Power Pop</item>
+	<item>Praise & Worship</item>
+	<item>Prank Calls</item>
+	<item>Prewar Blues</item>
+	<item>Prewar Country Blues</item>
+	<item>Prewar Gospel Blues</item>
+	<item>Process-Generated</item>
+	<item>Progressive Alternative</item>
+	<item>Progressive Big Band</item>
+	<item>Progressive Bluegrass</item>
+	<item>Progressive Country</item>
+	<item>Progressive Electronic</item>
+	<item>Progressive Folk</item>
+	<item>Progressive House</item>
+	<item>Progressive Jazz</item>
+	<item>Progressive Metal</item>
+	<item>Progressive Trance</item>
+	<item>Prog-Rock/Art Rock</item>
+	<item>Proto-Punk</item>
+	<item>Psychedelic</item>
+	<item>Psychedelic Pop</item>
+	<item>Psychedelic Soul</item>
+	<item>Psychobilly</item>
+	<item>Pub Rock</item>
+	<item>Punk</item>
+	<item>Punk Blues</item>
+	<item>Punk Metal</item>
+	<item>Punk-Pop</item>
+	<item>Punk Revival</item>
+	<item>Pygmy</item>
+	<item>Qawwali</item>
+	<item>Quadrille</item>
+	<item>Quechua</item>
+	<item>Queercore</item>
+	<item>Quiet Storm</item>
+	<item>Radio Plays</item>
+	<item>Radio Shows</item>
+	<item>Radio Works</item>
+	<item>Raga</item>
+	<item>Ragga</item>
+	<item>Ragtime</item>
+	<item>Rai</item>
+	<item>Rakugo</item>
+	<item>Ranchera</item>
+	<item>Rap</item>
+	<item>Rap-Metal</item>
+	<item>Rap-Rock</item>
+	<item>Rapso</item>
+	<item>Rave</item>
+	<item>R&B</item>
+	<item>Read-Along Stories</item>
+	<item>Reggae</item>
+	<item>Reggae Gospel</item>
+	<item>Reggae-Pop</item>
+	<item>Reggaeton</item>
+	<item>Relaxation</item>
+	<item>Rembetika</item>
+	<item>Renaissance</item>
+	<item>Retro-Rock</item>
+	<item>Retro-Soul</item>
+	<item>Retro Swing</item>
+	<item>Rhumba</item>
+	<item>Riot Grrrl</item>
+	<item>Rock</item>
+	<item>Rockabilly</item>
+	<item>Rockabilly Revival</item>
+	<item>Rock en Español</item>
+	<item>Rock & Roll</item>
+	<item>Rocksteady</item>
+	<item>Rodeo</item>
+	<item>Romantic</item>
+	<item>Roots Reggae</item>
+	<item>Roots Rock</item>
+	<item>Russian Folk</item>
+	<item>Sacred Choral</item>
+	<item>Sacred Vocal</item>
+	<item>Sadcore</item>
+	<item>Salsa</item>
+	<item>Samba</item>
+	<item>Satire</item>
+	<item>Scandinavian Folk</item>
+	<item>Scandinavian Metal</item>
+	<item>Scandinavian Pop</item>
+	<item>Scottish Folk</item>
+	<item>Screamo</item>
+	<item>Scriptures</item>
+	<item>Sea Shanties</item>
+	<item>Séga</item>
+	<item>Self-Help</item>
+	<item>Shaabi</item>
+	<item>Sharki</item>
+	<item>Shibuya-Kei</item>
+	<item>Shinto</item>
+	<item>Shock Jock</item>
+	<item>Shoegaze</item>
+	<item>Show Tunes</item>
+	<item>Sing-Along</item>
+	<item>Singer/Songwriter</item>
+	<item>Ska</item>
+	<item>Ska-Punk</item>
+	<item>Ska Revival</item>
+	<item>Skatepunk</item>
+	<item>Sketch Comedy</item>
+	<item>Skiffle</item>
+	<item>Slack-Key Guitar</item>
+	<item>Slide Guitar Blues</item>
+	<item>Slowcore</item>
+	<item>Sludge Metal</item>
+	<item>Smooth Jazz</item>
+	<item>Smooth Reggae</item>
+	<item>Smooth Soul</item>
+	<item>Soca</item>
+	<item>Social Commentary</item>
+	<item>Society Dance Band</item>
+	<item>Soft Rock</item>
+	<item>Software/Sounds</item>
+	<item>Solo Instrumental</item>
+	<item>Son</item>
+	<item>Sonero</item>
+	<item>Song Parody</item>
+	<item>Songster</item>
+	<item>Sophisti-Pop</item>
+	<item>Soukous</item>
+	<item>Soul</item>
+	<item>Soul-Blues</item>
+	<item>Soul-Jazz</item>
+	<item>Sound Art</item>
+	<item>Sound Collage</item>
+	<item>Sound Effects</item>
+	<item>Sound Sculpture</item>
+	<item>Soundtrack</item>
+	<item>Soundtracks</item>
+	<item>South African Folk</item>
+	<item>South African Pop</item>
+	<item>Southeast Asian Music</item>
+	<item>Southern Gospel</item>
+	<item>Southern Rap</item>
+	<item>Southern Rock</item>
+	<item>Southern Soul</item>
+	<item>Space</item>
+	<item>Space Age Pop</item>
+	<item>Space Rock</item>
+	<item>Spanish Folk</item>
+	<item>Speeches</item>
+	<item>Speed Metal</item>
+	<item>Spiritual</item>
+	<item>Spirituals</item>
+	<item>Spoken Word</item>
+	<item>Sports Anthems</item>
+	<item>Spouge</item>
+	<item>Spy Music</item>
+	<item>Square Dance</item>
+	<item>Standards</item>
+	<item>Standup Comedy</item>
+	<item>Steel Band</item>
+	<item>St. Louis Blues</item>
+	<item>Stoner Metal</item>
+	<item>Straight-Edge</item>
+	<item>Stride</item>
+	<item>String Bands</item>
+	<item>Structured Improvisation</item>
+	<item>Sunshine Pop</item>
+	<item>Surf</item>
+	<item>Surf Revival</item>
+	<item>Swamp Blues</item>
+	<item>Swamp Pop</item>
+	<item>Swedish Folk</item>
+	<item>Swedish Pop/Rock</item>
+	<item>Sweet Bands</item>
+	<item>Swing</item>
+	<item>Switzerland Folk</item>
+	<item>Symphonic Black Metal</item>
+	<item>Synth Pop</item>
+	<item>Taarab</item>
+	<item>Taiwanese Pop</item>
+	<item>Tango</item>
+	<item>Tape Music</item>
+	<item>Tech-House</item>
+	<item>Techno</item>
+	<item>Techno Bass</item>
+	<item>Techno-Dub</item>
+	<item>Techno-Tribal</item>
+	<item>Teen Idol</item>
+	<item>Teen Pop</item>
+	<item>Tejano</item>
+	<item>Television Music</item>
+	<item>Texas Blues</item>
+	<item>Tex-Mex</item>
+	<item>Thai Pop</item>
+	<item>Thanksgiving</item>
+	<item>Third Stream</item>
+	<item>Third Wave Ska Revival</item>
+	<item>Thrash</item>
+	<item>Throat Singing</item>
+	<item>Timba</item>
+	<item>Tin Pan Alley Pop</item>
+	<item>Torch Songs</item>
+	<item>Township Jazz</item>
+	<item>Traditional</item>
+	<item>Traditional Bluegrass</item>
+	<item>Traditional Cajun</item>
+	<item>Traditional Celtic</item>
+	<item>Traditional Chinese</item>
+	<item>Traditional Country</item>
+	<item>Traditional European Folk</item>
+	<item>Traditional Folk</item>
+	<item>Traditional Gospel</item>
+	<item>Traditional Irish Folk</item>
+	<item>Traditional Japanese</item>
+	<item>Traditional Korean</item>
+	<item>Traditional Middle Eastern Folk</item>
+	<item>Traditional Native American</item>
+	<item>Traditional Pop</item>
+	<item>Traditional Scottish Folk</item>
+	<item>Trad Jazz</item>
+	<item>Trance</item>
+	<item>Travel</item>
+	<item>Tribal-House</item>
+	<item>Tribute Albums</item>
+	<item>Trip-Hop</item>
+	<item>Tropical</item>
+	<item>Tropicalia</item>
+	<item>Trot</item>
+	<item>Trova</item>
+	<item>Truck Driving Country</item>
+	<item>Turkish Folk</item>
+	<item>Turkish Music</item>
+	<item>Turntablism</item>
+	<item>TV Soundtracks</item>
+	<item>Twee Pop</item>
+	<item>Underground Rap</item>
+	<item>Uptown Soul</item>
+	<item>Urban</item>
+	<item>Urban Blues</item>
+	<item>Urban Cowboy</item>
+	<item>Urban Folk</item>
+	<item>Vallenato</item>
+	<item>Vaudeville</item>
+	<item>Vaudeville Blues</item>
+	<item>Vaudou</item>
+	<item>Video</item>
+	<item>Video Game Music</item>
+	<item>Vocal</item>
+	<item>Vocalese</item>
+	<item>Vocal Jazz</item>
+	<item>Vocal Pop</item>
+	<item>Waltz</item>
+	<item>Wedding Music</item>
+	<item>West Coast Blues</item>
+	<item>West Coast Jazz</item>
+	<item>West Coast Rap</item>
+	<item>Western Swing</item>
+	<item>Western Swing Revival</item>
+	<item>Women's</item>
+	<item>Work Songs</item>
+	<item>World</item>
+	<item>Worldbeat</item>
+	<item>World Fusion</item>
+	<item>Yodeling</item>
+	<item>Zouk</item>
+	<item>Zydeco</item>
+
+</string-array>

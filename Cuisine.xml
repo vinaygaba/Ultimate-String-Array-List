@@ -1,0 +1,19 @@
+<string-array name="cuisine">
+	<item>American</item>
+	<item>British</item>
+	<item>Caribbean</item>
+	<item>Chinese</item>
+	<item>French</item>
+	<item>Greek</item>
+	<item>Indian</item>
+	<item>Italian</item>
+	<item>Japanese</item>
+	<item>Mediterranean</item>
+	<item>Mexican</item>
+	<item>Moroccan</item>
+	<item>Spanish</item>
+	<item>Thai</item>
+	<item>Turkish</item>
+	<item>Vietnamese</item>
+
+</string-array>

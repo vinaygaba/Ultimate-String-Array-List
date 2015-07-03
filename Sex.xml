@@ -1,0 +1,6 @@
+<string-array name="sex">
+	<item>Male</item>
+	<item>Female</item>
+	<item>Intersex</item>
+	<item>Undetermined</item>
+</string-array>

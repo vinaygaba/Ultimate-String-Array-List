@@ -1,0 +1,43 @@
+<string-array name="olympic_sports">
+	<item>Archery</item>
+	<item>Athletics</item>
+	<item>Badminton</item>
+	<item>Basketball</item>
+	<item>Beach Volleyball</item>
+	<item>Boxing</item>
+	<item>Canoe Slalom</item>
+	<item>Canoe Sprint</item>
+	<item>Cycling BMX</item>
+	<item>Cycling Mountain Bike</item>
+	<item>Cycling Road</item>
+	<item>Cycling Track</item>
+	<item>Diving</item>
+	<item>Equestrian / Dressage</item>
+	<item>Equestrian / Eventing</item>
+	<item>Equestrian / Jumping</item>
+	<item>Fencing</item>
+	<item>Football</item>
+	<item>Golf</item>
+	<item>Gymnastics Artistic</item>
+	<item>Gymnastics Rhythmic</item>
+	<item>Handball</item>
+	<item>Hockey</item>
+	<item>Judo</item>
+	<item>Modern Pentathlon</item>
+	<item>Rowing</item>
+	<item>Rugby</item>
+	<item>Sailing</item>
+	<item>Shooting</item>
+	<item>Swimming</item>
+	<item>Synchronized Swimming</item>
+	<item>Table Tennis</item>
+	<item>Taekwondo</item>
+	<item>Tennis</item>
+	<item>Trampoline</item>
+	<item>Triathlon</item>
+	<item>Volleyball</item>
+	<item>Water Polo</item>
+	<item>Weightlifting</item>
+	<item>Wrestling Freestyle</item>
+	<item>Wrestling Greco-Roman</item>
+</string-array>

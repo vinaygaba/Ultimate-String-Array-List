@@ -1,0 +1,7 @@
+<string-array name="gender">
+	<item>Man</item>
+	<item>Woman</item>
+	<item>Transgender</item>
+	<item>Questioning</item>
+	<item>Not Applicable</item>
+</string-array>

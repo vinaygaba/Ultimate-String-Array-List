@@ -1,0 +1,30 @@
+<string-array name="weather">
+	
+	<item>Rainy</item>
+	<item>Stormy</item>
+	<item>Sunny</item>
+	<item>Cloudy</item>
+	<item>Hot</item>
+	<item>Cold</item>
+	<item>Dry</item>
+	<item>Wet</item>
+	<item>Windy</item>
+	<item>Hurricanes</item>
+	<item>Typhoons</item>
+	<item>Sand-storms</item>
+	<item>Snow-storms</item>
+	<item>Tornados</item>
+	<item>Humid</item>
+	<item>Foggy</item>
+	<item>Snow</item>
+	<item>Thundersnow</item>
+	<item>Hail</item>
+	<item>Sleet</item>
+	<item>Drought</item>
+	<item>Wildfire</item>
+	<item>Blizzard</item>
+	<item>Avalanche</item>
+	<item>Mist</item>
+	<item>Haze</item>
+
+</string-array>
