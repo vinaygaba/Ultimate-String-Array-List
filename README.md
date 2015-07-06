@@ -3,7 +3,7 @@ Ultimate String-Array List
 
 As an Android developer, I absolutely hate it when I have to worry about getting data for common use cases which involve things like list of countries, list of states or even letting the users enter their birth year. Even if I do find the data, it is hardly in a format that I can use easily. Honestly, this is :poop:!
 
-So I decided to do this :poop: work for you :smile:! This repo will be a compreshensive list of common use cases like these with data in a format which is extremely easy to use in an Android app.
+So I decided to do this :poop: work for you :smile:! This repo will be a comprehensive list of common use cases like these with data in a format which is extremely easy to use in an Android app.
 
 **We have enough things to worry about as an Android developer and collecting data for common use cases shouldn't be one of them!**
 
