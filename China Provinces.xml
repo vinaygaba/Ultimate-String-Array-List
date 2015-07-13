@@ -1,0 +1,36 @@
+<string-array name="china_provinces">
+  <item>Anhui Province</item>
+  <item>Beijing Municipality</item>
+  <item>Chongqing Municipality</item>
+  <item>Fujian Province</item>
+  <item>Guangdong Province</item>
+  <item>Gansu Province</item>
+  <item>Guangxi Zhuang Autonomous Region</item>
+  <item>Guizhou Province</item>
+  <item>Henan Province</item>
+  <item>Hubei Province</item>
+  <item>Hebei Province</item>
+  <item>Hainan Province</item>
+  <item>Hong Kong Special Administrative Region</item>
+  <item>Heilongjiang Province</item>
+  <item>Hunan Province</item>
+  <item>Jilin Province</item>
+  <item>Jiangsu Province</item>
+  <item>Jiangxi Province</item>
+  <item>Liaoning Province</item>
+  <item>Macau Special Administrative Region</item>
+  <item>Inner Mongolia Autonomous Region</item>
+  <item>Ningxia Hui Autonomous Region</item>
+  <item>Qinghai Province</item>
+  <item>Sichuan Province</item>
+  <item>Shandong Province</item>
+  <item>Shanghai Municipality</item>
+  <item>Shaanxi Province</item>
+  <item>Shanxi Province</item>
+  <item>Tianjin Municipality</item>
+  <item>Taiwan Province*</item>
+  <item>Xinjiang Uyghur Autonomous Region</item>
+  <item>Tibet Autonomous Region</item>
+  <item>Yunnan Province</item>
+  <item>Zhejiang Province</item>
+</string-array>
