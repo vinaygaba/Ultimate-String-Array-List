@@ -16,6 +16,8 @@ Name|Description
 [App Categories.xml](/App Categories.xml)| List of app categories present on the Google Play Store
 [Canada Province Codes.xml](/Canada Province Codes.xml)| List of codes of provinces in Canada
 [Canada Provinces.xml](/Canada Provinces.xml)| List of provinces in Canada
+[China Province Codes.xml](/China Province Codes.xml)| List of codes of provinces in China
+[China Provinces.xml](/China Provinces.xml)| List of provinces in China
 [Countries.xml](/Countries.xml)| List of all countries in the world.
 [Credit Card Networks.xml](/Credit Card Networks.xml)| List of credit card networks
 [Cuisine.xml](/Cuisine.xml)| List of the different types of cuisines that people eat
