@@ -3,15 +3,15 @@ Ultimate String-Array List
 
 ![Feature Image](/images/StringArrayList.png)
 
-As an Android developer, I absolutely hate it when I have to worry about getting data for common use cases which involve things like list of countries, list of states or even letting the users enter their birth year. Even if I do find the data, it is hardly in a format that I can use easily. Honestly, this is :poop:!
+As an Android developer, I absolutely hate it when I have to worry about getting data for common use cases which involve things like list of countries, list of states or even letting the users enter their birth year. We see this in most android apps, especially the ones which have a form that a user needs to fill. Even if I do find the data , it is hardly in a format that I can use easily in my app. Honestly, this is :poop:!
 
-So I decided to do this :poop: work for you :smile:! This repo will be a comprehensive list of common use cases like these with data in a format which is extremely easy to use in an Android app.
+So I decided to do this :poop: work for you :smile:! This repo will be a comprehensive list of common use cases like these with data in a format which is extremely easy to use in an Android app. 
 
 **We have enough things to worry about as an Android developer and collecting data for common use cases shouldn't be one of them!**
 
 Current List of String-Arrays
 -----------------------------
-The repository has the following list of string-array. Please note that this is continously being updated so do check frequently. You can also send in your requests via the issue tracker.
+The repository has the following list of string-array. Please note that this is continously being updated so do check frequently. You can also send in your requests via the issue tracker. I am hoping that you take some inspiration from the categories I am adding and make contributions to this repo to make it more useful.
 
 Name|Description
 ----|-----------
