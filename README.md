@@ -16,10 +16,10 @@ The repository has the following list of string-array. Please note that this is 
 Name|Description
 ----|-----------
 [App Categories.xml](/App Categories.xml)| List of app categories present on the Google Play Store
-[Canada Province Codes.xml](/Canada Province Codes.xml)| List of codes of provinces in Canada
-[Canada Provinces.xml](/Canada Provinces.xml)| List of provinces in Canada
-[China Province Codes.xml](/China Province Codes.xml)| List of codes of provinces in China
-[China Provinces.xml](/China Provinces.xml)| List of provinces in China
+[Canada Province Codes.xml](/Country Lists/Canada/Canada Province Codes.xml)| List of codes of provinces in Canada
+[Canada Provinces.xml](/Country Lists/Canada/Canada Provinces.xml)| List of provinces in Canada
+[China Province Codes.xml](/Country Lists/China/China Province Codes.xml)| List of codes of provinces in China
+[China Provinces.xml](/Country Lists/China/China Provinces.xml)| List of provinces in China
 [Countries.xml](/Countries.xml)| List of all countries in the world
 [Country with telephonice codes.xml](/Country with telephonice codes.xml)| List of countries with their telephone codes.
 [Credit Card Networks.xml](/Credit Card Networks.xml)| List of credit card networks
@@ -28,13 +28,13 @@ Name|Description
 [EPL Clubs.xml](/Days of Month.xml)| List of EPL Clubs(Season 14-15)
 [Gender.xml](/Gender.xml)| List of the possible gender options
 [Genre.xml](/Genre.xml)| List of the different genres of music
-[India Banks.xml](/India Banks.xml)| List of all the banks running in India
-[India Top Cities.xml](/India Top Cities.xml)| List of top cities in India
-[India State Codes.xml](/India State Codes.xml)| List of codes of States in India
-[India States.xml](/India States.xml)| List of States in India
+[India Banks.xml](/Country Lists/India/India Banks.xml)| List of all the banks running in India
+[India Top Cities.xml](/Country Lists/India/India Top Cities.xml)| List of top cities in India
+[India State Codes.xml](/Country Lists/India/India State Codes.xml)| List of codes of States in India
+[India States.xml](/Country Lists/India/India States.xml)| List of States in India
 [Months.xml](/Months.xml)| List of all the possible months of a year
 [Moods.xml](/Moods.xml)| List of the different moods of people
-[Mumbai Localities.xml](/Mumbai Localities.xml)| List of the localities of Mumbai
+[Mumbai Localities.xml](/Country Lists/India/Mumbai Localities.xml)| List of the localities of Mumbai
 [Olympic Countries.xml](/Olympic Countries.xml)| List of countries participating in the 2016 Olympics
 [Olympic Sports.xml](/Olympic Sports.xml)| List of the different sports being played in 2016 Olympics
 [Seasons.xml](/Seasons.xml)| List of the possible season of a year
