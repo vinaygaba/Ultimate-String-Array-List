@@ -11,7 +11,7 @@ So I decided to do this :poop: work for you :smile:! This repo will be a compreh
 
 Current List of String-Arrays
 -----------------------------
-The repository has the following list of string-array. Please note that this is continously being updated so do check frequently. You can also send in your requests via the issue tracker. I am hoping that you take some inspiration from the categories I am adding and make contributions to this repo to make it more useful.
+The repository has the following list of string-array. Please note that this is continuously being updated so do check frequently. You can also send in your requests via the issue tracker. I am hoping that you take some inspiration from the categories I am adding and make contributions to this repo to make it more useful.
 
 Name|Description
 ----|-----------
