@@ -1,0 +1,49 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Presidents">
+
+        <item>George Washington</item>
+        <item>John Adams</item>
+        <item>Thomas Jefferson</item>
+        <item>James Madison</item>
+        <item>James Monroe</item>
+        <item>John Quincy Adams</item>
+        <item>Andrew Jackson</item>
+        <item>Martin Van Buren</item>
+        <item>William Henry Harrison</item>
+        <item>John Tyler</item>
+        <item>James K. Polk</item>
+        <item>Zachary Taylor</item>
+        <item>Millard Fillmore</item>
+        <item>Franklin Pierce</item>
+        <item>James Buchanan</item>
+        <item>Abraham Lincoln</item>
+        <item>Andrew Johnson</item>
+        <item>Ulysses S. Grant</item>
+        <item>Rutherford B. Hayes</item>
+        <item>James A. Garfield</item>
+        <item>Grover Cleveland</item>
+        <item>William McKinley</item>
+        <item>Theodore Roosevelt</item>
+        <item>William Howard Taft</item>
+        <item>Woodrow Wilson</item>
+        <item>Warren G. Harding</item>
+        <item>Calvin Coolidge</item>
+        <item>Franklin D. Roosevelt</item>
+        <item>Harry Truman</item>
+        <item>Dwight D. Eisenhower</item>
+        <item>John F. Kennedy</item>
+        <item>Lyndon B. Johnson</item>
+        <item>Richard Nixon</item>
+        <item>Gerald Ford</item>
+        <item>Jimmy Carter</item>
+        <item>Ronald Reagan</item>
+        <item>George H. W. Bush</item>
+        <item>Bill Clinton</item>
+        <item>George W. Bush</item>
+        <item>Barack Obama</item>
+
+    </string-array>
+</resources>
