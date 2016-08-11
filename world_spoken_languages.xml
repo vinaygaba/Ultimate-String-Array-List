@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>Afrikaans</item>
+        <item>Albanian</item>
+        <item>Amharic</item>
+        <item>Arabic (Egyptian Spoken)</item>
+        <item>Arabic (Levantine)</item>
+        <item>Arabic (Modern Standard)</item>
+        <item>Arabic (Moroccan Spoken)</item>
+        <item>Arabic</item>
+        <item>Aramaic</item>
+        <item>Armenian</item>
+        <item>Assamese</item>
+        <item>Aymara</item>
+        <item>Azerbaijani</item>
+        <item>Balochi</item>
+        <item>Bamanankan</item>
+        <item>Bashkort (Bashkir)</item>
+        <item>Basque</item>
+        <item>Belarusan</item>
+        <item>Bengali</item>
+        <item>Bhojpuri</item>
+        <item>Bislama</item>
+        <item>Bosnian</item>
+        <item>Brahui</item>
+        <item>Bulgarian</item>
+        <item>Burmese</item>
+        <item>Cantonese</item>
+        <item>Catalan</item>
+        <item>Cebuano</item>
+        <item>Chechen</item>
+        <item>Cherokee</item>
+        <item>Croatian</item>
+        <item>Czech</item>
+        <item>Dakota</item>
+        <item>Danish</item>
+        <item>Dari</item>
+        <item>Dholuo</item>
+        <item>DutchEnglish</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Estonian</item>
+        <item>Éwé</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Georgian</item>
+        <item>German</item>
+        <item>Gikuyu</item>
+        <item>Greek</item>
+        <item>Guarani</item>
+        <item>Gujarati</item>
+        <item>Haitian Creole</item>
+        <item>Hausa</item>
+        <item>Hawaiian</item>
+        <item>Hawaiian Creole</item>
+        <item>Hebrew</item>
+        <item>Hiligaynon</item>
+        <item>Hindi</item>
+        <item>Hungarian</item>
+        <item>Icelandic</item>
+        <item>Igbo</item>
+        <item>Indonesian (Bahasa Indonesia)</item>
+        <item>Inuit/Inupiaq</item>
+        <item>Irish Gaelic</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Jarai</item>
+        <item>Javanese</item>
+        <item>K’iche’</item>
+        <item>Kabyle</item>
+        <item>Kannada</item>
+        <item>Kashmiri</item>
+        <item>Kazakh</item>
+        <item>Khmer</item>
+        <item>KhoekhoeKorean</item>
+        <item>Kurdish</item>
+        <item>Kyrgyz</item>
+        <item>Lao</item>
+        <item>Latin</item>
+        <item>Latvian</item>
+        <item>Lingala</item>
+        <item>Lithuanian</item>
+        <item>Macedonian</item>
+        <item>Maithili</item>
+        <item>Malagasy</item>
+        <item>Malay (Bahasa Melayu)</item>
+        <item>Malayalam</item>
+        <item>Mandarin (Chinese)</item>
+        <item>Marathi</item>
+        <item>Mende</item>
+        <item>Mongolian</item>
+        <item>Nahuatl</item>
+        <item>Navajo</item>
+        <item>Nepali</item>
+        <item>Norwegian</item>
+        <item>Ojibwa</item>
+        <item>Oriya</item>
+        <item>Oromo</item>
+        <item>Pashto</item>
+        <item>Persian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Punjabi</item>
+        <item>Quechua</item>
+        <item>Romani</item>
+        <item>Romanian</item>
+        <item>Russian</item>
+        <item>Rwanda</item>
+        <item>Samoan</item>
+        <item>Sanskrit</item>
+        <item>SerbianShona</item>
+        <item>Sindhi</item>
+        <item>Sinhala</item>
+        <item>Slovak</item>
+        <item>Slovene</item>
+        <item>Somali</item>
+        <item>Spanish</item>
+        <item>Swahili</item>
+        <item>Swedish</item>
+        <item>Tachelhit</item>
+        <item>Tagalog</item>
+        <item>Tajiki</item>
+        <item>Tamil</item>
+        <item>Tatar</item>
+        <item>Telugu</item>
+        <item>Thai</item>
+        <item>Tibetic languages</item>
+        <item>Tigrigna</item>
+        <item>Tok Pisin</item>
+        <item>Turkish</item>
+        <item>Turkmen</item>
+        <item>Ukrainian</item>
+        <item>Urdu</item>
+        <item>Uyghur</item>
+        <item>Uzbek</item>
+        <item>Vietnamese</item>
+        <item>Warlpiri</item>
+        <item>Welsh</item>
+        <item>Wolof</item>
+        <item>Xhosa</item>
+        <item>Yakut</item>
+        <item>Yiddish</item>
+        <item>Yoruba</item>
+        <item>Yucatec</item>
+        <item>Zapotec</item>
+        <item>Zulu</item>
+    </string-array>
+</resources>
