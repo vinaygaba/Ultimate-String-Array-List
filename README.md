@@ -25,7 +25,7 @@ Name|Description
 [Credit Card Networks.xml](/Credit Card Networks.xml)| List of credit card networks
 [Cuisine.xml](/Cuisine.xml)| List of the different types of cuisines that people eat
 [Days of Month.xml](/Days of Month.xml)| List of days possible in a month
-[EPL Clubs.xml](/Days of Month.xml)| List of EPL Clubs(Season 14-15)
+[EPL Clubs.xml](/EPL Clubs.xml)| List of EPL Clubs(Season 14-15)
 [Gender.xml](/Gender.xml)| List of the possible gender options
 [Genre.xml](/Genre.xml)| List of the different genres of music
 [India Banks.xml](/Country Lists/India/India Banks.xml)| List of all the banks running in India
