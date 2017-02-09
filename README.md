@@ -22,7 +22,7 @@ Name|Description
 [China Provinces.xml](/Country Lists/China/China Provinces.xml)| List of provinces in China
 [Countries.xml](/Countries.xml)| List of all countries in the world
 [Country with telephonice codes.xml](/Country with telephonice codes.xml)| List of countries with their telephone codes.
-[Credit Card Networks.xml](/Credit Card Networks.xml)| List of credit card networks
+[Credit Card Companies.xml](/Credit Card Companies.xml)| List of credit card networks
 [Cuisine.xml](/Cuisine.xml)| List of the different types of cuisines that people eat
 [Days of Month.xml](/Days of Month.xml)| List of days possible in a month
 [EPL Clubs.xml](/EPL Clubs.xml)| List of EPL Clubs(Season 14-15)
