@@ -1,6 +1,7 @@
 <string-array name="gender">
-	<item>Man</item>
-	<item>Woman</item>
+	<item>Male</item>
+	<item>Female</item>
+	<item>Intersex</item>
 	<item>Transgender</item>
 	<item>Questioning</item>
 	<item>Not Applicable</item>
