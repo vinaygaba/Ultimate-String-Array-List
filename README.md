@@ -39,8 +39,8 @@ Name|Description
 [Olympic Sports.xml](/Olympic Sports.xml)| List of the different sports being played in 2016 Olympics
 [Seasons.xml](/Seasons.xml)| List of the possible season of a year
 [Sex.xml](/Sex.xml)| List of different sex categories (You have a disgusting mind :smile:)
-[US State Codes.xml](/US State Codes.xml)| List of codes of States in the US
-[US States.xml](/US States.xml)| List of States in the US
+[US State Codes.xml](/Country Lists/USA/US State Codes.xml)| List of codes of States in the US
+[US States.xml](/Country Lists/USA/US States.xml)| List of States in the US
 [Weather.xml](/Weather.xml)| List of different weather conditions
 [Years.xml](/Years.xml)| List of years from 1900 to 2050
 
