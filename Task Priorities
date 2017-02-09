@@ -1,0 +1,7 @@
+    <string-array name="task_priorities">
+        <item>Critical</item>
+        <item>Time-Sensitive</item>
+        <item>High</item>
+        <item>Moderate</item>
+        <item>Low</item>
+    </string-array>
