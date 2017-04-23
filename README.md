@@ -15,13 +15,13 @@ The repository has the following list of string-array. Please note that this is 
 
 Name|Description
 ----|-----------
-[App Categories.xml](/App Categories.xml)| List of app categories present on the Google Play Store
+[App Categories.xml](/App%20Categories.xml)| List of app categories present on the Google Play Store
 [Canada Province Codes.xml](/Country%20Lists/Canada/Canada%20Province%20Codes.xml)| List of codes of provinces in Canada
 [Canada Provinces.xml](/Country%20Lists/Canada/Canada%20Provinces.xml)| List of provinces in Canada
 [China Province Codes.xml](/Country%20Lists/China/China%20Province%20Codes.xml)| List of codes of provinces in China
 [China Provinces.xml](/Country%20Lists/China/China%20Provinces.xml)| List of provinces in China
 [Countries.xml](/Countries.xml)| List of all countries in the world
-[Country with telephonice codes.xml](/Country with telephonice codes.xml)| List of countries with their telephone codes.
+[Country with telephonice codes.xml](/Country%20with%20telephonice%20codes.xml)| List of countries with their telephone codes.
 [Credit Card Networks.xml](/Credit%20Card%20Networks.xml)| List of credit card networks
 [Cuisine.xml](/Cuisine.xml)| List of the different types of cuisines that people eat
 [Days of Month.xml](/Days%20of%20Month.xml)| List of days possible in a month
@@ -30,7 +30,7 @@ Name|Description
 [Genre.xml](/Genre.xml)| List of the different genres of music
 [India Banks.xml](/Country%20Lists/India/India%20Banks.xml)| List of all the banks running in India
 [India Top Cities.xml](/Country%20Lists/India/India%20Top%20Cities.xml)| List of top cities in India
-[India State Codes.xml](/Country%20Lists/India/India State Codes.xml)| List of codes of States in India
+[India State Codes.xml](/Country%20Lists/India/India%20State%20Codes.xml)| List of codes of States in India
 [India States.xml](/Country%20Lists/India/India%20States.xml)| List of States in India
 [Months.xml](/Months.xml)| List of all the possible months of a year
 [Moods.xml](/Moods.xml)| List of the different moods of people
