@@ -1,3 +1,72 @@
-<string-array name="app_categories">
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_categories">
+        <item>Daydream</item>
+        <item>Art &amp; Design</item>
+        <item>Auto &amp; Vehicles</item>
+        <item>Beauty</item>
+        <item>Books &amp; Reference</item>
+        <item>Communication</item>
+        <item>Dating</item>
+        <item>Education</item>
+        <item>Entertainment</item>
+        <item>Events</item>
+        <item>Finance</item>
+        <item>Food &amp; Drink</item>
+        <item>Games</item>
+        <item>Health &amp; Fitness</item>
+        <item>House &amp; Home</item>
+        <item>Libraries &amp; Demo</item>
+        <item>Lifestyle</item>
+        <item>Maps &amp; Navigation</item>
+        <item>Medical</item>
+        <item>Music &amp; Audio</item>
+        <item>News &amp; Magazines</item>
+        <item>Parenting</item>
+        <item>Personalization</item>
+        <item>Photography</item>
+        <item>Productivity</item>
+        <item>Shopping</item>
+        <item>Social</item>
+        <item>Sports</item>
+        <item>Tools</item>
+        <item>Travel &amp; Local</item>
+        <item>Video Players &amp; Editors</item>
+        <item>Wear OS by Google</item>
+        <item>Weather</item>
+    </string-array>
 
-</string-array>
+    <!-- Sub categories in Games-->
+    <string-array name="games_categories">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Arcade</item>
+        <item>Board</item>
+        <item>Card</item>
+        <item>Casino</item>
+        <item>Casual</item>
+        <item>Educational</item>
+        <item>Music</item>
+        <item>Puzzle</item>
+        <item>Racing</item>
+        <item>Role Playing</item>
+        <item>Simulation</item>
+        <item>Sports</item>
+        <item>Strategy</item>
+        <item>Trivia</item>
+        <item>Word</item>
+    </string-array>
+
+    <!--Sub Categories in Family-->
+    <string-array name="family_categories">
+        <item>Ages 5 &amp; Under</item>
+        <item>Ages 6-8</item>
+        <item>Ages 9 &amp; Up</item>
+        <item>Action &amp; Adventure</item>
+        <item>Brain Games</item>
+        <item>Creativity</item>
+        <item>Education</item>
+        <item>Music &amp; Video</item>
+        <item>Pretend Play</item>
+    </string-array>
+</resources>
