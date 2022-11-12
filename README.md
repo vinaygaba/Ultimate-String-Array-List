@@ -17,15 +17,19 @@ The repository has the following list of string-array. Please note that this is 
 Name|Description
 ----|-----------
 [App Categories.xml](/App%20Categories.xml)| List of app categories present on the Google Play Store
+[aws_regions.xml](/aws_regions.xml)| List of codes and names for AWS region
 [Canada Province Codes.xml](/Country%20Lists/Canada/Canada%20Province%20Codes.xml)| List of codes of provinces in Canada
 [Canada Provinces.xml](/Country%20Lists/Canada/Canada%20Provinces.xml)| List of provinces in Canada
 [China Province Codes.xml](/Country%20Lists/China/China%20Province%20Codes.xml)| List of codes of provinces in China
 [China Provinces.xml](/Country%20Lists/China/China%20Provinces.xml)| List of provinces in China
+[Cloud_providers.xml](/Cloud_providers.xml)| List of major public cloud providers
 [Countries.xml](/Countries.xml)| List of all countries in the world
 [Country telephone and iso codes.xml](/Country%20telephone%20and%20iso%20codes.xml)| List of countries with their telephone codes.
 [Credit Card Companies.xml](/Credit%20Card%20Companies.xml)| List of credit card networks
 [Cuisine.xml](/Cuisine.xml)| List of the different types of cuisines that people eat
 [Days of Month.xml](/Days%20of%20Month.xml)| List of days possible in a month
+[Days Of Week.xml](/Days%20Of%20Week.xml)| List of days within a week
+[Elements.xml](/Elements.xml)| List of chemical elements
 [EPL Clubs.xml](/EPL%20Clubs.xml)| List of EPL Clubs(Season 22-23)
 [Gender.xml](/Gender.xml)| List of the possible gender options
 [Genre.xml](/Genre.xml)| List of the different genres of music
@@ -38,11 +42,15 @@ Name|Description
 [Mumbai Localities.xml](/Country%20Lists/India/Mumbai%20Localities.xml)| List of the localities of Mumbai
 [Olympic Countries.xml](/Olympic%20Countries.xml)| List of countries participating in the 2016 Olympics
 [Olympic Sports.xml](/Olympic%20Sports.xml)| List of the different sports being played in 2016 Olympics
+[Presidents.xml](/Presidents.xml)| List of United states of America presidents
 [Seasons.xml](/Seasons.xml)| List of the possible season of a year
 [Sex.xml](/Sex.xml)| List of different sex categories (You have a disgusting mind :smile:)
+[Timezones.xml](/Timezones.xml)| List of time zones
 [US State Codes.xml](/Country%20Lists/USA/US%20State%20Codes.xml)| List of codes of States in the US
 [US States.xml](/Country%20Lists/USA/US%20States.xml)| List of States in the US
 [Weather.xml](/Weather.xml)| List of different weather conditions
+[world_cup_2022_groups.xml](/world_cup_2022_groups.xml)| List of countries in Qatar 2022 world cup
+[world_spoken_languages.xml](/world_spoken_languages.xml)| List of some world languages
 [Years.xml](/Years.xml)| List of years from 1900 to 2050
 
 Why String-Arrays?
