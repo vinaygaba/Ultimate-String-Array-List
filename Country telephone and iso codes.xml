@@ -404,6 +404,12 @@
             <iso3>EST</iso3>
         </item>
         <item>
+            <country>Eswatini</country>
+            <countryCode>268</countryCode>
+            <iso2>SZ</iso2>
+            <iso3>SWZ</iso3>
+        </item>
+        <item>
             <country>Ethiopia</country>
             <countryCode>251</countryCode>
             <iso2>ET</iso2>
