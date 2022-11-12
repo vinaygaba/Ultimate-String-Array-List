@@ -5,12 +5,13 @@ Ultimate String-Array List
 
 As an Android developer, I absolutely hate it when I have to worry about getting data for common use cases which involve things like list of countries, list of states or even letting the users enter their birth year. We see this in most android apps, especially the ones which have a form that a user needs to fill. Even if I do find the data , it is hardly in a format that I can use easily in my app. Honestly, this is :poop:!
 
-So I decided to do this :poop: work for you :smile:! This repo will be a comprehensive list of common use cases like these with data in a format which is extremely easy to use in an Android app. 
+So I decided to do this :poop: work for you :smile:! This repo will be a comprehensive list of common use cases like these with data in a format which is extremely easy to use in an Android app.
 
 **We have enough things to worry about as an Android developer and collecting data for common use cases shouldn't be one of them!**
 
 Current List of String-Arrays
 -----------------------------
+
 The repository has the following list of string-array. Please note that this is continuously being updated so do check frequently. You can also send in your requests via the issue tracker. I am hoping that you take some inspiration from the categories I am adding and make contributions to this repo to make it more useful.
 
 Name|Description
@@ -44,9 +45,9 @@ Name|Description
 [Weather.xml](/Weather.xml)| List of different weather conditions
 [Years.xml](/Years.xml)| List of years from 1900 to 2050
 
-
 Why String-Arrays?
 ------------------
+
 String-Arrays are extremely flexible to use and it is very easy to use them in any data structure that we might like. Don't believe me? Fine let me prove it to you!
 
 Copy the string array you want to use and place it in the `res/values/some_file_name.xml` file. It would look something like this:
@@ -62,6 +63,7 @@ Copy the string array you want to use and place it in the `res/values/some_file_
     </string-array>
 </resources>
 ```
+
 Now to access this programmatically, we can do this:
 
 ```java
@@ -88,19 +90,21 @@ for(int i=0;i<us_state_codes.length();i++){
 }
 
 ```
+
 As you can see, this is a really flexible way to access data and can be used in various scenarios.
 
 **Note: This is extremely basic stuff but I wanted to show these examples for people who have not worked with string-arrays before.**
 
 Contributing
 -----------------
+
 Please use the issue tracker to report any discrepancies in the data or any string-arrays you would like to see.
 
 For contributions to this repo, fell free to send a pull request.
 
-
 Credits
 -----------------
+
 Author: Vinay Gaba (vinaygaba@gmail.com)
 
 <a href="https://plus.google.com/+Vinaygaba">
@@ -116,11 +120,10 @@ Author: Vinay Gaba (vinaygaba@gmail.com)
        src="https://github.com/gabrielemariotti/cardslib/raw/master/demo/images/linkedin.png" />
 </a>
 
-
 License
 -------
 
-    Copyright 2015 Vinay Gaba
+  Copyright 2015 Vinay Gaba
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

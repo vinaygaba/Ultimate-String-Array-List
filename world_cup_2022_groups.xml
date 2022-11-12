@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="world_cup_2022">
+        <item>
+            <country>Qatar</country>
+            <group>A</group>
+            <manager>Feliz Sanchez</manager>
+            <captain>Hassan Al-Haydos</captain>
+        </item>
+
+        <item>
+            <country>Ecuador</country>
+            <group>A</group>
+            <manager>Gustavo Alfaro</manager>
+            <captain>Enner Valencia</captain>
+        </item>
+
+        <item>
+            <country>Senegal</country>
+            <group>A</group>
+            <manager>Aliou Cisse</manager>
+            <captain>Kalidou Koulibaly</captain>
+        </item>
+
+        <item>
+            <country>Netherlands</country>
+            <group>A</group>
+            <manager>Louis van Gaal</manager>
+            <captain>Virgil van Dijk</captain>
+        </item>
+
+        <item>
+            <country>England</country>
+            <group>B</group>
+            <manager>Gareth Southgate</manager>
+            <captain>Harry Kane</captain>
+        </item>
+
+        <item>
+            <country>IR Iran</country>
+            <group>B</group>
+            <manager>Carlos Queiroz</manager>
+            <captain>Ehsan Hajsafi</captain>
+        </item>
+
+        <item>
+            <country>USA</country>
+            <group>B</group>
+            <manager>Gregg Berhalter</manager>
+            <captain>Christian Pulisic</captain>
+        </item>
+
+        <item>
+            <country>Wales</country>
+            <group>B</group>
+            <manager>Rob Page</manager>
+            <captain>Gareth Bale</captain>
+        </item>
+
+        <item>
+            <country>Argentina</country>
+            <group>C</group>
+            <manager>Lionel Scaloni </manager>
+            <captain>Lionel Messi</captain>
+        </item>
+
+        <item>
+            <country>Saudi Arabia</country>
+            <group>C</group>
+            <manager>Herve Renard</manager>
+            <captain>Salman Al-Faraj</captain>
+        </item>
+
+        <item>
+            <country>Mexico</country>
+            <group>C</group>
+            <manager>Gerardo Martino</manager>
+            <captain>Andres Guadardo</captain>
+        </item>
+
+        <item>
+            <country>Poland</country>
+            <group>C</group>
+            <manager>Czeslaw Michniewicz</manager>
+            <captain>Robert Lewandowski</captain>
+        </item>
+
+        <item>
+            <country>France</country>
+            <group>D</group>
+            <manager>Didier Deschamps</manager>
+            <captain>Hugo Lloris</captain>
+        </item>
+
+        <item>
+            <country>Australia</country>
+            <group>D</group>
+            <manager>Graham Arnold</manager>
+            <captain>Mat Ryan</captain>
+        </item>
+
+        <item>
+            <country>Demark</country>
+            <group>D</group>
+            <manager>Kasper Hjulmand</manager>
+            <captain>Simon Kjaer</captain>
+        </item>
+
+        <item>
+            <country>Tunsia</country>
+            <group>D</group>
+            <manager>Jalel Kadri</manager>
+            <captain>Youssef Msakni</captain>
+        </item>
+
+        <item>
+            <country>Spain</country>
+            <group>E</group>
+            <manager>Luis Enrique</manager>
+            <captain>Sergio Busquets</captain>
+        </item>
+
+        <item>
+            <country>Costa Rica</country>
+            <group>E</group>
+            <manager>Luis Fernando Suarez </manager>
+            <captain>Bryan Ruiz</captain>
+        </item>
+
+        <item>
+            <country>Germany</country>
+            <group>E</group>
+            <manager>Hansi Flick</manager>
+            <captain>Manuel Neuer</captain>
+        </item>
+
+        <item>
+            <country>Japan</country>
+            <group>E</group>
+            <manager>Hajime Moriyasu</manager>
+            <captain>Maya Yoshida</captain>
+        </item>
+
+        <item>
+            <country>Belgium</country>
+            <group>F</group>
+            <manager>Roberto Martinez </manager>
+            <captain>Eden Hazard</captain>
+        </item>
+
+        <item>
+            <country>Canada</country>
+            <group>F</group>
+            <manager>John Herdman</manager>
+            <captain>Atiba Hutchinson</captain>
+        </item>
+
+        <item>
+            <country>Morocco</country>
+            <group>F</group>
+            <manager>Walid Regragui</manager>
+            <captain>Romain Saiss</captain>
+        </item>
+
+        <item>
+            <country>Croatia</country>
+            <group>F</group>
+            <manager>Zlatko Dalic</manager>
+            <captain>Luka Modric</captain>
+        </item>
+
+        <item>
+            <country>Brazil</country>
+            <group>G</group>
+            <manager>Adenor Leonardo Bacchi(Tite)</manager>
+            <captain>Thiago Silva</captain>
+        </item>
+
+        <item>
+            <country>Serbia</country>
+            <group>G</group>
+            <manager>Dragan Stojkovic</manager>
+            <captain>Dusan Tadic</captain>
+        </item>
+
+        <item>
+            <country>Switzerland</country>
+            <group>G</group>
+            <manager>Murat Yakin</manager>
+            <captain>Granit Xhaka</captain>
+        </item>
+
+        <item>
+            <country>Cameroon</country>
+            <group>G</group>
+            <manager>Rigobert Song</manager>
+            <captain>Vincent Aboubakar</captain>
+        </item>
+
+        <item>
+            <country>Portugal</country>
+            <group>H</group>
+            <manager>Fernando Santos</manager>
+            <captain>Cristiano Ronaldo</captain>
+        </item>
+
+        <item>
+            <country>Ghana</country>
+            <group>H</group>
+            <manager>Otto Addo</manager>
+            <captain>Andre Ayew</captain>
+        </item>
+
+        <item>
+            <country>Uruguay</country>
+            <group>H</group>
+            <manager>Diego Alonso</manager>
+            <captain>Diego Godin</captain>
+        </item>
+
+        <item>
+            <country>Korea Republic</country>
+            <group>H</group>
+            <manager>Paulo Bento</manager>
+            <captain>Son Heung-Min</captain>
+        </item>
+
+
+       
+    </string-array>
+</resources>
