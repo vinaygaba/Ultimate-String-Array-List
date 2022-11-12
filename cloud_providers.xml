@@ -1,0 +1,15 @@
+<string-array name="cloud_providers">
+	<item>Amazon Web Services (AWS)</item>
+	<item>Microsoft Azure</item>
+	<item>Google Cloud </item>
+	<item>IBM Cloud</item>
+	<item>Oracle Cloud</item>
+	<item>Alibaba Cloud</item>
+	<item>RedHat</item>
+	<item>Heroku</item>
+	<item>Digital Ocean</item>
+	<item>CloudFlare</item>
+    <item>Linode</item>
+    <item>Cloudways</item>
+    <item>Rackspace</item>
+</string-array>
