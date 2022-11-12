@@ -22,11 +22,11 @@ Name|Description
 [China Province Codes.xml](/Country%20Lists/China/China%20Province%20Codes.xml)| List of codes of provinces in China
 [China Provinces.xml](/Country%20Lists/China/China%20Provinces.xml)| List of provinces in China
 [Countries.xml](/Countries.xml)| List of all countries in the world
-[Country with telephonice codes.xml](/Country%20with%20telephonice%20codes.xml)| List of countries with their telephone codes.
-[Credit Card Networks.xml](/Credit%20Card%20Networks.xml)| List of credit card networks
+[Country telephone and iso codes.xml](/Country%20telephone%20and%20iso%20codes.xml)| List of countries with their telephone codes.
+[Credit Card Companies.xml](/Credit%20Card%20Companies.xml)| List of credit card networks
 [Cuisine.xml](/Cuisine.xml)| List of the different types of cuisines that people eat
 [Days of Month.xml](/Days%20of%20Month.xml)| List of days possible in a month
-[EPL Clubs.xml](/EPL%20Clubs.xml)| List of EPL Clubs(Season 14-15)
+[EPL Clubs.xml](/EPL%20Clubs.xml)| List of EPL Clubs(Season 22-23)
 [Gender.xml](/Gender.xml)| List of the possible gender options
 [Genre.xml](/Genre.xml)| List of the different genres of music
 [India Banks.xml](/Country%20Lists/India/India%20Banks.xml)| List of all the banks running in India
@@ -40,8 +40,8 @@ Name|Description
 [Olympic Sports.xml](/Olympic%20Sports.xml)| List of the different sports being played in 2016 Olympics
 [Seasons.xml](/Seasons.xml)| List of the possible season of a year
 [Sex.xml](/Sex.xml)| List of different sex categories (You have a disgusting mind :smile:)
-[US State Codes.xml](/US%20State%20Codes.xml)| List of codes of States in the US
-[US States.xml](/US%20States.xml)| List of States in the US
+[US State Codes.xml](/Country%20Lists/USA/US%20State%20Codes.xml)| List of codes of States in the US
+[US States.xml](/Country%20Lists/USA/US%20States.xml)| List of States in the US
 [Weather.xml](/Weather.xml)| List of different weather conditions
 [Years.xml](/Years.xml)| List of years from 1900 to 2050
 
@@ -63,7 +63,6 @@ Copy the string array you want to use and place it in the `res/values/some_file_
     </string-array>
 </resources>
 ```
-
 Now to access this programmatically, we can do this:
 
 ```java
@@ -90,21 +89,19 @@ for(int i=0;i<us_state_codes.length();i++){
 }
 
 ```
-
 As you can see, this is a really flexible way to access data and can be used in various scenarios.
 
 **Note: This is extremely basic stuff but I wanted to show these examples for people who have not worked with string-arrays before.**
 
 Contributing
 -----------------
-
 Please use the issue tracker to report any discrepancies in the data or any string-arrays you would like to see.
 
 For contributions to this repo, fell free to send a pull request.
 
+
 Credits
 -----------------
-
 Author: Vinay Gaba (vinaygaba@gmail.com)
 
 <a href="https://plus.google.com/+Vinaygaba">
@@ -120,10 +117,11 @@ Author: Vinay Gaba (vinaygaba@gmail.com)
        src="https://github.com/gabrielemariotti/cardslib/raw/master/demo/images/linkedin.png" />
 </a>
 
+
 License
 -------
 
-  Copyright 2015 Vinay Gaba
+    Copyright 2015 Vinay Gaba
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

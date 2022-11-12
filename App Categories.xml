@@ -1,3 +1,53 @@
 <string-array name="app_categories">
+    <item>Art &amp; Design</item>
+    <item>Auto &amp; Vehicles</item>
+    <item>Beauty</item>
+    <item>Beauty</item>
+    <item>Book &amp; Reference</item>
+    <item>Busines</item>
+    <item>Comics</item>
+    <item>Communication</item>
+    <item>Dating</item>
+    <item>Education</item>
+    <item>Entertainment</item>
+    <item>Events</item>
+    <item>Finance</item>
+    <item>Food &amp; Drink</item>
+    <item>Health &amp; Fitness</item>
+    <item>House &amp; Home</item>
+    <item>Libraries &amp; Demo</item>
+    <item>Lifestyle</item>
+    <item>Maps &amp; Navigation</item>
+    <item>Medical</item>
+    <item>Music &amp; Audio</item>
+    <item>News &amp; Magazines</item>
+    <item>Parenting</item>
+    <item>Personalization</item>
+    <item>Photography</item>
+    <item>Productivity</item>
+    <item>Shopping</item>
+    <item>Social</item>
+    <item>Sports</item>
+    <item>Tools</item>
+    <item>Travel &amp; Local</item>
+    <item>Video Players &amp; Editors</item>
+    <item>Weather</item>
+    <item>Action</item>
+    <item>Adventure</item>
+    <item>Arcade</item>
+    <item>Board</item>
+    <item>Card</item>
+    <item>Casino</item>
+    <item>Casual</item>
+    <item>Educational</item>
+    <item>Music</item>
+    <item>Puzzle</item>
+    <item>Racing</item>
+    <item>Role Playing</item>
+    <item>Simulation</item>
+    <item>Sports Games</item>
+    <item>Strategy</item>
+    <item>Trivia</item>
+    <item>Word</item>
 
 </string-array>
