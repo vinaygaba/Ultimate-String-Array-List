@@ -9,7 +9,7 @@
 	<item>Heroku</item>
 	<item>Digital Ocean</item>
 	<item>CloudFlare</item>
-    <item>Linode</item>
-    <item>Cloudways</item>
-    <item>Rackspace</item>
+    	<item>Linode</item>
+    	<item>Cloudways</item>
+    	<item>Rackspace</item>
 </string-array>
