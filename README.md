@@ -17,7 +17,7 @@ The repository has the following list of string-array. Please note that this is 
 Name|Description
 ----|-----------
 [App Categories.xml](/App%20Categories.xml)| List of app categories present on the Google Play Store
-[aws_regions.xml](/aws_regions.xml)| List of codes and names for AWS region
+[AWS Regions.xml](/AWS%20Regions.xml)| List of codes and names for AWS region
 [Canada Province Codes.xml](/Country%20Lists/Canada/Canada%20Province%20Codes.xml)| List of codes of provinces in Canada
 [Canada Provinces.xml](/Country%20Lists/Canada/Canada%20Provinces.xml)| List of provinces in Canada
 [China Province Codes.xml](/Country%20Lists/China/China%20Province%20Codes.xml)| List of codes of provinces in China
